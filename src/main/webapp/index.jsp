@@ -13,6 +13,7 @@
 	密码world：<input id="username" name="password" type="password"></input><br>
 	zm：<input id="username" name="password" type="password"></input><br>
 	jack：<input id="username" name="password" type="password"></input><br>
+	john：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
