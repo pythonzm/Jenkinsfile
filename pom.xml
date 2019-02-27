@@ -9,7 +9,7 @@
   <build>
   <!-- 使用默认的文件路径 -->
    <!-- 生成的war文件名 避免添加版本号 -->
-    <finalName>easy-springmvc-maven</finalName>
+    <finalName>easy</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
