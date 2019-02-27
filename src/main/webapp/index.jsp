@@ -11,6 +11,7 @@
 <form action="login">
 	用户hello：<input id="username" name="username" type="text"></input><br>
 	密码world：<input id="username" name="password" type="password"></input><br>
+	zm：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
