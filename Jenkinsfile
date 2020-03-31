@@ -14,7 +14,7 @@ pipeline {
             hello = 'world'
           }
           steps {
-            echo '$hello'
+            echo '"$hello"'
           }
         }
 
